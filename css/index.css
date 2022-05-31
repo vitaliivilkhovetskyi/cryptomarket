@@ -1,0 +1,35 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(-109deg, #dadee4 0%, #d1b7f0 100%);
+    color: #000000;
+    padding: 30px;
+    font-size: 16px;
+}
+
+.container{
+    max-width: 980px;
+    margin: 0px auto;
+    text-align: justify;
+}
+.h1{
+    font: outline;
+}
+
+.fear{
+    display: block;
+    margin: auto;
+    max-height: 200px;
+
+}
+
+.bitcoin{
+    max-height: 70px;
+}
+
+.eth{
+    max-height: 70px;
+}
+
+.cryptoportfolio{
+    text-align: center;
+}
